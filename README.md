@@ -1,10 +1,7 @@
 ![logo](https://image.ibb.co/g69ZDx/682111_cloud_512x512.png)
 
-# 5-Day Weather Forecast
-A simple application to display 5-day weather forecast using the OpenWeatherMap API. Built on top of my recently created [React-Redux-Sass Starter Kit](https://github.com/Gigacore/React-Redux-Sass-Starter).
-
-### Demo
-https://www.gigacore.in/demos/react-weather-forecast/
+# Premium Weather Forecast
+A simple application to display 5-day weather forecast using the OpenWeatherMap API. 
 
 ## Pre-requisites
 * Node.js 9.8.0 and above
@@ -12,7 +9,7 @@ https://www.gigacore.in/demos/react-weather-forecast/
 ## Run
 ```
 git clone
-cd react-weather-forecast
+cd impenia.github.io
 npm i
 ```
 
@@ -69,5 +66,5 @@ npm run test
 * SASS
 * Jest + Enzyme
 
-#### The MIT License (MIT)
-MIT © 2018 Santhosh Sundar
+License
+ALX © 2023 Isidore Akpaetuk & Emmanuel Iwatt
